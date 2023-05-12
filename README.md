@@ -17,9 +17,9 @@
 
 <br>
 
-# 데모영상
+# 시연영상 (이미지클릭)
 
-[![youtube](http://img.youtube.com/vi/Gd66Bzkedrg/0.jpg)](https://www.youtube.com/watch?v=Gd66Bzkedrg)
+[![시연영상](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGGEzG_APHtjCKa5V-bJCqoqEEGKW7a84hA&usqp=CAU)](https://youtu.be/Gd66Bzkedrg)
 
 <br>
 
